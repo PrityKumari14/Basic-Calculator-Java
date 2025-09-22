@@ -24,3 +24,38 @@ It allows the user to perform addition, subtraction, multiplication, and divisio
 2. Compile the program:
    ```bash
    javac Calculator.java
+
+## Sample of Run the Program
+=== Basic Calculator ===
+
+Choose operation:
+1. Addition (+)
+2. Subtraction (-)
+3. Multiplication (*)
+4. Division (/)
+5. Exit
+Enter your choice (1-5): 1
+Enter first number: 10
+Enter second number: 5
+Outcome Result = 15.0
+
+Choose operation:
+1. Addition (+)
+2. Subtraction (-)
+3. Multiplication (*)
+4. Division (/)
+5. Exit
+Enter your choice (1-5): 4
+Enter first number: 9
+Enter second number: 0
+Division by zero is not possible!
+Outcome Result = NaN
+
+Choose operation:
+1. Addition (+)
+2. Subtraction (-)
+3. Multiplication (*)
+4. Division (/)
+5. Exit
+Enter your choice (1-5): 5
+Exiting calculator.
